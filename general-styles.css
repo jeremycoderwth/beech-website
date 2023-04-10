@@ -1,0 +1,29 @@
+/* this styles will be inherited */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:wght@300;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,300;0,400;0,500;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500;600;700;800&display=swap');
+
+html {
+  box-sizing: border-box;
+}
+
+:root {
+  --primary-fontFamily: 'Roboto Flex', arial;
+  --secondary-fontFamily: 'PT Serif', serif;
+  --optional-fontFamily: 'Raleway', sans-serif;
+  --forHeading-fontFamily: 'Open Sans', sans-serif;
+  --semibold-fontWeight: 600;
+  --normal-fontWeight: 500;
+  --bold-fontWeight: 700;
+  --thin-fontWeight: 400;
+  --font-smoothing: antialiased;
+}
+
+body {
+  -webkit-font-smoothing: var(--font-smoothing);
+  padding: 0;
+  margin: 0;
+  height: 300vh;
+}
