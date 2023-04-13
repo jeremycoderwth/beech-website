@@ -1,0 +1,470 @@
+/* these styles if for island-meaning.html file (some properties will be inherited) */
+
+header {
+  box-sizing: var(--initial-box-sizing);
+  margin: 0;
+  padding: 0;
+}
+
+.x-lpbgm {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 6em;
+  padding: 5px;
+}
+
+.x-ascde {
+  padding: 6px 6px;
+}
+
+.z-mlvjf {
+  width: 1000px;
+  height: 400px;
+}
+
+section {
+  margin: 0;
+  padding: 0;
+  box-sizing: var(--initial-box-sizing);
+}
+
+.x-jetqw, h1, p {
+  margin: 0;
+  padding: 0;
+  box-sizing: var(--initial-box-sizing);
+  -webkit-font-smoothing: var(--font-smoothing);
+}
+
+.x-jetqw {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.c-xkeiz {
+  font-size: 3em;
+  font-family: var(--optional-fontFamily);
+  font-weight: var(--normal-fontWeight);
+  letter-spacing: 1px;
+  margin-bottom: 12px;
+}
+
+.x-ksltn {
+  font-size: 1.4em;
+  font-family: var(--primary-fontFamily);
+  font-weight: 300;
+}
+
+main {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: var(--secondary-fontFamily);
+  font-weight: 400;
+}
+
+.content-area {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding-top: 1.5rem;
+  margin-top: 0.5rem;
+}
+
+.x-retwr {
+  max-width: 100%;
+  box-sizing: inherit;
+}
+
+x-gkrgh {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.trivia-facts-container {
+  margin-top: 3.2em;
+  padding: 10px;
+  width: 879px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.x-pryur {
+  background-color: rgb(245, 235, 235);
+  padding: 20px;
+  width: 605px;
+  border: solid 1px rgb(204, 204, 204);
+  box-shadow: 1px 2px 3px black;
+  margin-top: 40px;
+}
+
+#vcbgg-f {
+  font-size: 1.125em;
+  margin-bottom: 10px;
+  font-family: var(--forHeading-fontFamily);
+  padding-left: 5px;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+}
+
+#lpgrj-x {
+  line-height: 30px;
+  font-size: 1.25em;
+  margin-top: 25px;
+}
+
+/* these styles is for the footer */
+
+.🦶 {
+  background-color: rgb(32, 30, 30);
+  padding: 3rem;
+  box-sizing: var(--initial-box-sizing);
+  font-size: 16px;
+  color: rgb(245, 245, 245);
+  text-align: left;
+  font-family: var(--primary-fontFamily);
+  font-weight: 400;
+  line-height: 24px;
+}
+
+#container {
+  box-sizing: inherit;
+  max-width: 1320px;
+}
+
+.row-1 {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: -15px;
+  margin-right: -15px;
+  margin-top: 1rem;
+}
+
+.col-1 {
+  width: 315px;
+  max-width: 100%;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.col-1 img {
+  width: 180px;
+  height: 60px;
+}
+
+#💬 {
+  line-height: 24px;
+  margin: 10px 0;
+}
+
+.col-2 {
+  width: 630px;
+  max-width: 100%;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.x-klege {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: -15px;
+  margin-right: -15px;
+}
+
+.cont-1 {
+  max-width: 100%;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.cont-1 h6 {
+  font-weight: 700;
+  color: gray;
+  font-size: 13px;
+  letter-spacing: 2px;
+  margin-bottom: 10px;
+  margin-top: 0;
+}
+
+.z-wproe {
+  background-color: rgb(32, 30, 30);
+  color: white;
+  display: flex;
+  flex-direction: column;
+}
+
+.z-wproe a {
+  color: white;
+  text-decoration: none;
+  cursor: pointer;
+  font-size: 1.1rem;
+  padding: 5px 0;
+}
+
+.z-wproe a:hover {
+  color: rgb(184, 155, 155);
+}
+
+.cont-2 {
+  max-width: 100%;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.cont-2 h6 {
+  font-weight: 700;
+  color: gray;
+  font-size: 13px;
+  letter-spacing: 2px;
+  margin-bottom: 10px;
+  margin-top: 0;
+}
+
+.x-leivf {
+  background-color: rgb(32, 30, 30);
+  color: white;
+  display: flex;
+  flex-direction: column;
+}
+
+.x-leivf a {
+  color: white;
+  text-decoration: none;
+  cursor: pointer;
+  font-size: 1.1rem;
+  padding: 5px 0;
+}
+
+.x-leivf a:hover {
+  color: rgb(184, 155, 155);
+}
+
+.cont-3 {
+  max-width: 100%;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.cont-3 h6 {
+  font-weight: 700;
+  color: gray;
+  font-size: 13px;
+  letter-spacing: 2px;
+  margin-bottom: 10px;
+  margin-top: 0;
+}
+
+.x-ougor {
+  background-color: rgb(32, 30, 30);
+  color: white;
+  display: flex;
+  flex-direction: column;
+}
+
+.x-ougor a {
+  color: white;
+  text-decoration: none;
+  cursor: pointer;
+  font-size: 1.1rem;
+  padding: 5px 0;
+}
+
+.x-ougor a:hover {
+  color: rgb(184, 155, 155);
+}
+
+.col-3 {
+  width: 315px;
+  max-width: 100%;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.x-xsawq {
+  margin-bottom: 0;
+  box-sizing: inherit;
+}
+
+.btn-1 {
+  box-sizing: inherit;
+  margin-bottom: 15px;
+  width: 100%;
+}
+
+.btn-1 a {
+  display: block;
+  font-weight: 500;
+  text-decoration: none;
+  letter-spacing: 2px;
+  line-height: 14px;
+  padding: 12px 35px;
+  text-transform: uppercase;
+  background-color: rgb(51, 171, 99);
+  color: white;
+  text-align: center;
+}
+
+.btn-1 a:hover {
+  background-color: rgb(26, 155, 47);
+}
+
+.btn-2 {
+  box-sizing: inherit;
+  margin-bottom: 0;
+  width: 100%;
+}
+
+.btn-2 a {
+  display: block;
+  font-weight: 500;
+  text-decoration: none;
+  letter-spacing: 2px;
+  line-height: 14px;
+  padding: 12px 35px;
+  text-transform: uppercase;
+  background-color: rgb(245, 245, 245);
+  color: rgb(5, 5, 5);
+  text-align: center;
+}
+
+.btn-2 a:hover {
+  background-color: rgb(219, 198, 198);
+}
+
+.row-2 {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: -15px;
+  margin-right: -15px;
+  margin-top: 50px;
+}
+
+.col-4 {
+  max-width: 100%;
+  padding: 0 15px;
+  width: 315px;
+}
+
+.x-ghrjd {
+  box-sizing: inherit;
+  margin-bottom: 0;
+}
+
+.x-ghrjd h6 {
+  color: rgb(245, 245, 245);
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+}
+
+.x-ghrjd a {
+  margin-right: 20px;
+}
+
+.col-5 {
+  max-width: 100%;
+  padding: 0 15px;
+  width: 945px;
+  flex: 0 0 auto;
+}
+
+.🤣 {
+  box-sizing: inherit;
+  color: rgb(102, 102, 102);
+  max-width: 100%;
+}
+
+.col-5 a {
+  color: rgb(102, 102, 102);
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.col-5 a:hover {
+  color: rgb(245, 235, 235);
+  text-decoration-line: underline;
+  text-decoration-color: rgb(202, 201, 201);
+  text-decoration-style: solid;
+}
+
+.col-5 .sp-qwowr {
+  color: rgb(102, 102, 102);
+}
+
+.ph-001 {
+  margin-top: 1rem;
+  box-sizing: inherit;
+}
+
+.ph-001 p {
+  line-height: 2.2rem;
+  margin: 0 0 1rem 0;
+  box-sizing: inherit;
+  font-size: 1.375em;
+  direction: ltr;
+  text-align: start;
+  max-width: 75ch;
+}
+
+/* ito yung magiging default na size ng every elements sa mobile device na may 320px or low ang viewport width */
+@media (max-width: 320px) {
+  .z-mlvjf {
+    width: 300px;
+    height: 160px;
+  }
+}
+
+/* ito naman yung magiging default size ng elements sa mobile device na ang viewport width ay 321px pataas */
+@media (min-width: 321px) and (max-width: 375px) {
+  .z-mlvjf {
+    width: 360px;
+    height: 200px;
+  }
+}
+
+/* ito naman yung magiging size ng elements sa mobile device na medyo wide and viewport width */
+@media (min-width: 376px) and (max-width: 425px) {
+  .z-mlvjf {
+    width: 400px;
+    height: 240px;
+  }
+}
+
+/* ito naman ang magiging default size ng elements sa mga device na tulad ng tablet or ipad na may wide viewport width */
+@media (min-width: 426px) and (max-width: 768px) {
+  .z-mlvjf {
+    width: 620px;
+    height: 270px;
+  }
+}
+
+/* ito naman ang magiging default size ng elements sa mga laptop na may wide viewport width */
+@media (min-width: 769px) and (max-width: 1024px) {
+  .z-mlvjf {
+    width: 880px;
+    height: 320;
+  }
+}
+
+/* ito naman ang magiging size ng elements sa mga device na may 1000px or above and viewport width tulad ng ultra wide laptops of PC */
+@media (min-width: 1025px) and (max-width: 1440px) {
+  .z-mlvjf {
+    width: 1000px;
+    height: 460;
+  }
+}
+
+/* ito naman ng final size ng elements sa mga device tulad ng ultra wide monitors na PC or above if meron wahahah */
+@media (min-width: 1441px) {
+  .z-mlvjf {
+    width: 1250px;
+    height: 520px;
+  }
+}
