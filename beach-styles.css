@@ -1,0 +1,102 @@
+/* these styles is for beach-meaning.html file (some properties will be inherited) */
+
+header {
+  box-sizing: var(--initial-box-sizing);
+  margin: 0;
+  padding: 0;
+}
+
+.x-gdgre {
+  margin-top: 5.5rem;
+}
+
+.v-lgewd {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
+  max-width: 100%;
+  flex-wrap: wrap;
+  flex: 400px;
+  max-height: 100%;
+}
+
+.c-mbnfd {
+  display: flex;
+  padding: 6px 6px;
+  width: 100%;
+  flex-wrap: wrap;
+  flex: 400px;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.x-fdged {
+  width: 80%;
+  max-height: 100%;
+} 
+
+/* These properties is for the title of the article */
+
+section, section div, section h1, section p {
+  margin: 0;
+  padding: 0;
+  box-sizing: var(--initial-box-sizing);
+}
+
+.x-lavrf {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 6px;
+  margin: 10px 0;
+}
+
+#bgdeg-c {
+  font-size: clamp(1.2rem, 9vh, 3rem);
+  font-family: var(--secondary-fontFamily);
+  letter-spacing: 1px; 
+}
+
+#lgrbf-v {
+  font-size: clamp(0.6rem, 4vh, 1.3rem);
+  font-family: var(--optional-fontFamily);
+  text-align: center;
+  line-height: 1.3em;
+}
+
+@media (max-width: 320px) {
+  .left-sec {
+    width: 20%;
+  }
+
+  .menu-icon {
+    margin: 0.5em 5px 0.5em 1.2em;
+    height: 14px;
+  }
+
+  .mid-sec div {
+    font-size: 0.325rem;
+    width: 40%;
+  }
+
+  .beech-logo {
+    width: 40px;
+    height: 20px;
+  }
+
+  .right-sec {
+    width: 6%;
+  }
+
+  .fb-logo {
+    height: 15px;
+  }
+
+  .instagram-logo {
+    height: 15px;
+  }
+}
